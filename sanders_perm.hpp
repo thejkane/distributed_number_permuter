@@ -71,7 +71,7 @@ template<SANDERS_PERM_PARAMS>
 void 
 SANDERS_PERM_TYPE::verify(int N, permute_vector_t& p_out) {
   std::sort(p_out.begin(), p_out.end());
-  permute_vector_t::iterator ite = p_out.begin();
+  typename permute_vector_t::iterator ite = p_out.begin();
   for (; ite != p_out.end(); ++ite) {
     //TODO
   }
