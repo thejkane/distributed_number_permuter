@@ -1,4 +1,3 @@
-// Copyright (C) 2017 - Thejaka Kanewala.
 //  Authors: Thejaka Kanewala
 /**************************************************************************
 /* This source file implements the permutation algorithm described P. Sanders [1] 
